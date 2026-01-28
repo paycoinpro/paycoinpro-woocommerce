@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: PayCoinPro for WooCommerce
- * Plugin URI: https://paycoinpro.com
+ * Plugin URI: https://paycoinpro.com/docs/woocommerce
  * Description: Accept cryptocurrency payments via PayCoinPro payment gateway
  * Version: 1.0.0
  * Author: PayCoinPro

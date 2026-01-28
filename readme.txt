@@ -2,7 +2,7 @@
 Contributors: paycoinpro
 Tags: crypto, cryptocurrency, bitcoin, ethereum, usdt, woocommerce, payment gateway, btc, eth, crypto payments
 Requires at least: 5.0
-Tested up to: 6.4
+Tested up to: 6.9
 Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPLv2 or later

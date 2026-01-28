@@ -8,10 +8,9 @@
  * Author URI: https://paycoinpro.com
  * License: GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain: paycoinpro-woocommerce
- * Domain Path: /languages
+ * Text Domain: paycoinpro-for-woocommerce
  * Requires at least: 5.0
- * Tested up to: 6.4
+ * Tested up to: 6.9
  * WC requires at least: 5.0
  * WC tested up to: 8.5
  */
